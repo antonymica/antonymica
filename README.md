@@ -11,4 +11,4 @@
 
 - 📫 Vous pouvez me contacter par **mtahintsoa@gmail.com**
 
-- ⚡ Fun fact **Je suis aussi passionné par l'intelligence artificielle et la création de projets innovants.**
+- ⚡ Je suis aussi passionné par **l'intelligence artificielle** et **la création de projets innovants.**
