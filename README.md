@@ -23,6 +23,6 @@
 
 - 💬 Posez-moi des questions sur **Docker, Kubernetes, et CI/CD**
 
-- 📫 Vous pouvez me contacter par **mtahintsoa@gmail.com**
+- 📫 Vous pouvez me contacter par **micaprofessionnel@gmail.com**
 
 - ⚡ Je suis aussi passionné par **l'intelligence artificielle** et **la création de projets innovants.**
