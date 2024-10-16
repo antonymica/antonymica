@@ -12,3 +12,6 @@
 - 📫 Vous pouvez me contacter par **mtahintsoa@gmail.com**
 
 - ⚡ Je suis aussi passionné par **l'intelligence artificielle** et **la création de projets innovants.**
+
+## Visiter mon portfolio
+**Lien** : [Portfolio Antony Mica](https://antonymica.vercel.app/)
